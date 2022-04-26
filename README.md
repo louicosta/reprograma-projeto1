@@ -27,7 +27,6 @@ npm	Gerenciador de pacotes
 readline-sync	Dependência para receber inputs no terminal
 |
 
-Arquitetura
  📁 projeto-de-livros
    |- 📁 controllers
    |     |- 📄 buscarLivros.js
@@ -40,6 +39,7 @@ Arquitetura
    |- 📄 .gitignore
    |- 📄 package.json  
    |- 📄 package-lock.json
+   
 Requisitos
  buscarLivros: Deverá ser possível buscar livros pela categoria
  listarLivrosOrdenados: Deverá retornar todos os livros ordenados de forma crescente por quantidade de páginas.
@@ -68,3 +68,8 @@ leu: boolean
 #  Muito obrigada a você que chegou até aqui! </h2>
 
 </span>
+
+</span>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101025726/165316662-4017a64c-061b-431e-af3a-141b7208b999.gif" width="400px" />
+</div>
